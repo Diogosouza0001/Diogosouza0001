@@ -1,5 +1,5 @@
-### Hi there 👋
-ruby
+me ### Hi there 👋chamo Diogo
+
 <!--
 **Diogosouza0001/Diogosouza0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
